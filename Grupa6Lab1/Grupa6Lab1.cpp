@@ -38,7 +38,7 @@ int main()
 	cout << "podaj liczbe b" << endl;
 	cin >> b;
 	c = a * b;
-	cout << "wynik mnozenia a i b to: " << c << endl;
+	cout << "wynik mnozenia a i b to: " << c << endl; 
 	cin >> c;
 
 
