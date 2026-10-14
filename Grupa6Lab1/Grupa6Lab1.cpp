@@ -7,18 +7,50 @@ using namespace std;
 
 int main()
 {
+	//zad 1
+	cout << "X    X		  XXXXXXX " << endl;
+	cout << "X   X		X	 XX" << endl;
+	cout << "X  X		X		" << endl;
+	cout << "XX		 XXXXX		" << endl;
+	cout << "X  X			XXXX	" << endl;
+	cout << "X   X		XX	 X" << endl;
+	cout << "X    X	        XXXXXXXX	" << endl;
+	cout << endl << endl << endl;
 
-    cout << "Hello World!\n";
-    cout << "Hello World!\n";
-}
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
 
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+
+	//ZAD 2
+	cout << "		     	*			" << endl;
+	cout << "		       ***		" << endl;
+	cout << "		  *************		" << endl;
+	cout << "		    *********		" << endl;
+	cout << "		    ***   ***			" << endl;
+	cout << "		   **       **				" << endl;
+	cout << "							" << endl;
+	cout << "							" << endl;
+
+
+  //zad 4
+	int a, b, c;
+	cout << "podaj liczbe a" << endl;
+	cin >> a;
+	cout << "podaj liczbe b" << endl;
+	cin >> b;
+	int c = a * b;
+	cout << "wynik mnozenia a i b to: " << c << endl;
+	cin >> c;
+
+
+
+
+
+   
+   
+   
+   }
+
+
+
+
+
